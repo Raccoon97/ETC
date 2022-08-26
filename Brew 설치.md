@@ -22,3 +22,6 @@ Brew 설치
   /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 ```
 
+- brew 설치가 마무리 되며 아래와 같은 내용이 출력된다.
+
+<img width="638" alt="스크린샷 2022-08-26 오후 5 05 52" src="https://user-images.githubusercontent.com/101554627/186854248-12f05541-d712-44e3-ac0a-5702afe250cf.png">
